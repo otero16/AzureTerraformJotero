@@ -16,11 +16,12 @@ After you have downloaded the .md you just need to execute the file using terraf
 
 Recommendations:
 
-- You will one powerful hacking tool called notepad, this will give you the power of greyskul and text editor capabilities. You can use any other text editor if you are brave like that. 
-- You will need a Windows running machine, if anyone has ever seen one before, mine just sits on the table. 
-- You will need to have a workign azure subscription, and money for your azure subscription. Ensure to monitor those expenses. 
-- You will need a powershell console in your local windows machine, this will allow you to connect to your azure subscription and execute the scripts
-- You will need to install terraform in Windows [Installation link](https://developer.hashicorp.com/terraform/downloads)
+You will need the following:
+- A powerful hacking tool called notepad, this will give you the power of greyskul and text editor capabilities. You can use any other text editor if you are brave like that. 
+- A Windows running machine, if anyone has ever seen one before, mine just sits on the table. 
+- To have a workign azure subscription, and money for your azure subscription. Ensure to monitor those expenses. 
+- A powershell console in your local windows machine, this will allow you to connect to your azure subscription and execute the scripts
+- To install terraform in Windows [Installation link](https://developer.hashicorp.com/terraform/downloads)
 
 
 You can run this from any powershell console in a windows running machine, you just need to have installed terraform.
