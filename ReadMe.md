@@ -44,6 +44,7 @@ Index:
 7. S2S VPN in Azure with BGP enabled
 8. Application Gateway with IIS Web Server in the backend
 9. Public Standard Load Balancer with two Web Servers in the backend
+10. delete custom domain from azure cdn
     
     
    
